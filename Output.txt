@@ -1,0 +1,150 @@
+
+*********************
+Account Type: Savings
+Name: Arielle Duncan
+Account Number: 13810001560
+Balance: 1000.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 376
+ Safety Deposit Box Key: 4462
+
+*********************
+Account Type: Checking
+Name: Marybeth Sanders
+Account Number: 28310002736
+Balance: 2500.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 9463
+
+*********************
+Account Type: Checking
+Name: Hattie Storey
+Account Number: 27510003855
+Balance: 3500.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 7177
+
+*********************
+Account Type: Checking
+Name: Hilary Ward
+Account Number: 22310004687
+Balance: 6000.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 1520
+
+*********************
+Account Type: Savings
+Name: Luella Bradbury
+Account Number: 14510005385
+Balance: 1500.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 729
+ Safety Deposit Box Key: 2971
+
+*********************
+Account Type: Checking
+Name: Frankie Davidson
+Account Number: 22710006312
+Balance: 10000.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 3904
+
+*********************
+Account Type: Savings
+Name: Darnell Goodman
+Account Number: 19710007606
+Balance: 15000.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 984
+ Safety Deposit Box Key: 318
+
+*********************
+Account Type: Savings
+Name: Shila Obrien
+Account Number: 14410008653
+Balance: 2200.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 162
+ Safety Deposit Box Key: 6722
+
+*********************
+Account Type: Savings
+Name: Agnes Leonard
+Account Number: 19610009346
+Balance: 6500.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 51
+ Safety Deposit Box Key: 7208
+
+*********************
+Account Type: Checking
+Name: Florinda Goulding
+Account Number: 26810010263
+Balance: 25000.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 9478
+
+*********************
+Account Type: Savings
+Name: Eliseo Waller
+Account Number: 1821001117
+Balance: 12500.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 620
+ Safety Deposit Box Key: 4642
+
+*********************
+Account Type: Checking
+Name: Fredia Hastings
+Account Number: 21710012459
+Balance: 6500.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 8605
+
+*********************
+Account Type: Savings
+Name: Melody Potts
+Account Number: 11610013723
+Balance: 1500.0
+Rate: 2.25%
+ Your savings account features: 
+ Safety Deposit Box ID: 87
+ Safety Deposit Box Key: 8333
+
+*********************
+Account Type: Checking
+Name: Deadra Power
+Account Number: 20110014293
+Balance: 4500.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 4336
+
+*********************
+Account Type: Checking
+Name: Clyde Higgs
+Account Number: 22910015778
+Balance: 1000.0
+Rate: 0.325%
+ Your checking account features: 
+ Debit Card Number: 2147483647
+ Debit Card PIN: 8500
