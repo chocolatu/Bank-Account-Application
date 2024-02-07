@@ -2,13 +2,13 @@
 
 ## Scenario: You are a back-end developer and need to create an application to handle new customer bank account requests.
 
-The application should do the following:
+1. The application should do the following:
 
-Read a .csv file of names, social security numbers, account type, and initial deposit
+2. Read a .csv file of names, social security numbers, account type, and initial deposit
 
-Use a proper data structure to hold all these accounts
+3. Use a proper data structure to hold all these accounts
 
-Both savings and checking accounts share the following properties:
+4. Both savings and checking accounts share the following properties:
 
 deposit()
 
@@ -20,29 +20,29 @@ showInfo()
 
 11-digit Account Number (generated with the following process:1 or 2 depending on Savings or Checking, last two digits of SSN, unique 5-digit number, and random 3-digit number)
 
-Savings Account holders are given a Safety Deposit Box, identified by 3-digit number and accessed with a 4-digit code.
+5. Savings Account holders are given a Safety Deposit Box, identified by 3-digit number and accessed with a 4-digit code.
 
-Checking Account holders are assigned a Debit Card with a 12-digit number and 4-digit PIN 
+6. Checking Account holders are assigned a Debit Card with a 12-digit number and 4-digit PIN 
 
-Both account will use an interface that determines the base interest rate.
+7. Both account will use an interface that determines the base interest rate.
 
-Savings accounts will use .25 points less than the base rate
+8. Savings accounts will use .25 points less than the base rate
 
-Checking accounts will use 13% of the base rate
+9. Checking accounts will use 13% of the base rate
 
-The showInfo method should reveal relevant account information as well as information specific to the Checking account or Savings account.
+10. The showInfo method should reveal relevant account information as well as information specific to the Checking account or Savings account.
 
 ## What I learned from this project:
-Learn to develop a robust application architecture
+1. Learn to develop a robust application architecture
 
-Use when to use abstract classes and abstract methods
+2. Use when to use abstract classes and abstract methods
 
-Use an interface API to receive information from a developer’s application
+3. Use an interface API to receive information from a developer’s application
 
-Explore constructors deeper and use the super() keyword
+4. Explore constructors deeper and use the super() keyword
 
-Explore access modifiers and when to use public, private, or protected
+5. Explore access modifiers and when to use public, private, or protected
 
-Read data from a file and store in an appropriate data structure
+6. Read data from a file and store in an appropriate data structure
 
-Generate random numbers and work with String API
+7. Generate random numbers and work with String API
