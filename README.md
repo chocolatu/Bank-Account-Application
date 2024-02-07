@@ -10,7 +10,7 @@
 
 4. Both savings and checking accounts share the following properties:
 ```java
- 	   deposit()
+deposit()
      withdraw()
      transfer()
      showInfo()
