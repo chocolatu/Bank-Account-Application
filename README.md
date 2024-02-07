@@ -25,13 +25,13 @@
 
 7. Checking Account holders are assigned a Debit Card with a 12-digit number and 4-digit PIN 
 
-8. Both account will use an interface that determines the base interest rate.
+   Both account will use an interface that determines the base interest rate.
 
-9. Savings accounts will use .25 points less than the base rate
+   Savings accounts will use .25 points less than the base rate
 
-10. Checking accounts will use 13% of the base rate
+8. Checking accounts will use 13% of the base rate
 
-11. The showInfo method should reveal relevant account information as well as information specific to the Checking account or Savings account.
+9. The showInfo method should reveal relevant account information as well as information specific to the Checking account or Savings account.
 
 ## What I learned from this project:
 1. Learn to develop a robust application architecture
