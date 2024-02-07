@@ -10,15 +10,15 @@
 
 4. Both savings and checking accounts share the following properties:
 
-     deposit()
+     1. deposit()
    
-     withdraw()
+     2. withdraw()
    
-     transfer()
+     3. transfer()
    
-     showInfo()
+     4. showInfo()
 
-     11-digit Account Number (generated with the following process:1 or 2 depending on Savings or Checking, last two digits of SSN, unique 5-digit number, and random 3-digit number)<br>
+     5. 11-digit Account Number (generated with the following process:1 or 2 depending on Savings or Checking, last two digits of SSN, unique 5-digit number, and random 3-digit number)<br>
 
 
 6. Savings Account holders are given a Safety Deposit Box, identified by 3-digit number and accessed with a 4-digit code.
